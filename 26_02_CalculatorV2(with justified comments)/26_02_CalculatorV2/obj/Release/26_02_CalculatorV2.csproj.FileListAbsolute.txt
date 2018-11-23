@@ -1,0 +1,4 @@
+F:\school\Hillcrest\2018 Year 13\3DTP\Programs\26_02_CalculatorV2\26_02_CalculatorV2\bin\Release\26_02_CalculatorV2.exe.config
+F:\school\Hillcrest\2018 Year 13\3DTP\Programs\26_02_CalculatorV2\26_02_CalculatorV2\obj\Release\_26_02_CalculatorV2.Form1.resources
+F:\school\Hillcrest\2018 Year 13\3DTP\Programs\26_02_CalculatorV2\26_02_CalculatorV2\obj\Release\_26_02_CalculatorV2.Properties.Resources.resources
+F:\school\Hillcrest\2018 Year 13\3DTP\Programs\26_02_CalculatorV2\26_02_CalculatorV2\obj\Release\26_02_CalculatorV2.csproj.GenerateResource.Cache
